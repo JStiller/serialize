@@ -1,0 +1,19 @@
+{
+  "name": "@jstiller/serialize",
+  "version": "0.0.1",
+  "description": "A simple key-value (kv) converter",
+  "main": "serialize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JStiller/serialize.git"
+  },
+  "author": "José Stiller <info@josestiller.de> (http://www.josestiller.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JStiller/serialize/issues"
+  },
+  "homepage": "https://github.com/JStiller/serialize#readme"
+}
